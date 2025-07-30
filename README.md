@@ -12,7 +12,7 @@
 - **Bachelors in Naval Architecture**, India (2014-2018)
   - First rank in the university
   - Technical lead for college underwater robot team
-  - Intership at Cochin Shipyard and IROV Technologies Private Limited
+  - Internship at Cochin Shipyard and IROV Technologies Private Limited
 
 ### Work Experience
 
