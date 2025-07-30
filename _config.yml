@@ -1,5 +1,7 @@
 title: Rahul Nath Raghunathan
 # logo
-# description
-# show_downloads: true
+description: Software developer. Naval Architect
+show_downloads: false
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
