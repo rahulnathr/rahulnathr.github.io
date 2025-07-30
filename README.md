@@ -54,7 +54,7 @@
 Rhino 3D, Maxsurf, Matlab, Solidworks, STAR-CCM+, ShipX, Nauticus Hull, Creo, Siemens NX
 
 ### Outside of work
-I likes hikes and spending time with myfriends and my girlfriend. I try to volunteer at a local Red Cross center 
+I likes hikes and spending time with my friends and my girlfriend. I try to volunteer at a local Red Cross center. 
 ### Currently building
 
 Ship emission dashboard - side project
