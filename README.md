@@ -7,16 +7,16 @@
   - Overall A grade, thesis with A grade
   - Publication at IECON 2023, Singapore
   - Ship Design Project - Container ship design
-  - Master thesis - **_Design of Constraints for a Neural Network based Thrust Allocator for Dynamic Ship Positioning_**
+  - Master thesis - [**_Development of a Deep Learning based Thrust Allocator for Dynamic Positioning of Fully Actuated Vessels_**](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2828026)
 
-- **Bachelors in Naval Architecture**, India (2014-2018)
+- **Bachelors in Naval Architecture**,MG University, Kerala, India (2014-2018)
   - First rank in the university
   - Technical lead for college underwater robot team
   - Internship at Cochin Shipyard and IROV Technologies Private Limited
 
 ### Work Experience
 
-- **_Vard Electro AS_**, Alesund, Norway (2022-now)
+- **_Vard Electro AS_**, Ålesund, Norway (2022-now)
 
   - I work as a backend developer for automation systems developed by Vard Electro.
   - Mainly worked on SeaQ RMC product aimed at remote monitoring and control of vessel machinery
@@ -24,7 +24,7 @@
 
   ![VardElectro](/assets/images/vard.png)
 
-- **_OSC AS_**, Alesund, Norway (2021-2022)
+- **_OSC AS_**, Ålesund, Norway (2021-2022)
 
   - Development of marine simulation for clients like DEME, Equinor and Ocean Installer
   - DP system development for use in marine simulation environment
@@ -41,7 +41,7 @@
 
 **_NAVO NTNU_**
 
-- NTNU Alesund student autonomous boat project
+- NTNU Ålesund student autonomous boat project
 - Team leader managing a team of 8 students
 - Won prize from USA
 
@@ -60,7 +60,7 @@ Java, Node, Python, C++, Tensorflow, Pythonfmu, DNV Open simulation platform, Vi
 
 ### Outside of work
 
-I likes hikes and spending time with my friends and my girlfriend. I try to volunteer at a local Red Cross center in Alesund, Norway
+I likes hikes and spending time with my friends and my girlfriend. I try to volunteer at a local Red Cross center in Ålesund, Norway
 
 ### Personal Information
 
@@ -72,3 +72,4 @@ I likes hikes and spending time with my friends and my girlfriend. I try to volu
 ### Currently building
 
 Ship emission dashboard - side project
+
