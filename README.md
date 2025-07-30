@@ -48,19 +48,21 @@
 ### Publications
 
 - [**_Design of Constraints for a Neural Network based Thrust Allocator for Dynamic Ship Positioning_**](https://ieeexplore.ieee.org/document/10312100)
-  - Master thesis work extension
+  - Master thesis work extension published at IECON 2023, Singapore
 
 ### Software experience
 
 Rhino 3D, Maxsurf, Matlab, Solidworks, STAR-CCM+, ShipX, Nauticus Hull, Creo, Siemens NX
 
 ### Programming and framework experience
+
 Java, Node, Python, C++, Tensorflow, Pythonfmu, DNV Open simulation platform, Vico
+
 ### Outside of work
 
 I likes hikes and spending time with my friends and my girlfriend. I try to volunteer at a local Red Cross center in Alesund, Norway
 
-### Persoanl Information
+### Personal Information
 
 - Date of Birth: 11/03/1996
 - Nationallity: Indian
